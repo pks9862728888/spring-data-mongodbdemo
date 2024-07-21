@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: springdatamongodbdemo
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/flights
+#      uri: mongodb://admin:admin1234@localhost:27017/flights
+#      host: localhost
+#      port: 27017
+#      database: flights
+#      username: admin
+#      password: admin1234
+      auto-index-creation: true
