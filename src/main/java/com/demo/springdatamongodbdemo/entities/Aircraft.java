@@ -1,4 +1,4 @@
-package com.demo.springdatamongodbdemo.domain;
+package com.demo.springdatamongodbdemo.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

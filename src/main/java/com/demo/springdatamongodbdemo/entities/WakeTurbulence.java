@@ -1,4 +1,4 @@
-package com.demo.springdatamongodbdemo.domain;
+package com.demo.springdatamongodbdemo.entities;
 
 public enum WakeTurbulence {
     Heavy,  // >= 136000 kg

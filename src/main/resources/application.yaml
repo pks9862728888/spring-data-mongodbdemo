@@ -11,3 +11,10 @@ spring:
 #      username: admin
 #      password: admin1234
       auto-index-creation: true
+
+logging:
+  level:
+    org:
+      springframework:
+        data:
+          mongo: DEBUG
